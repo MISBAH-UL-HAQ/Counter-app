@@ -26,7 +26,7 @@ a {
 nav {
   background: #f6f5f2;
   background-image: url(./peak.jpg);
-  box-shadow: 0 5px 15px #634b01;
+  box-shadow: 0 5px 15px blue;
 }
 
 .menu a {
@@ -96,7 +96,7 @@ div {
   color: #fff;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 0 5px 15px #634b01;
+  box-shadow: 0 5px 15px blue;
 }
 
 .counter-div > * {
