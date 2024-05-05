@@ -12,7 +12,7 @@ body {
   font-family: sans-serif;
   line-height: 2.2;
   font-size: 0.875rem;
-  background-image: url(./px.jpg);
+  background-image: url(./pxr.jpg);
 }
 
 ul {
@@ -121,16 +121,19 @@ div {
 }
 
 button.subtract {
-  background-color: #ca8787;
+  background-color: #d18f8f;
+  border: 1px solid white;
 }
 
 button.reset {
   background-color: #ca8787;
   color: #1e8cfa;
+  border: 1px solid white ;
 }
 
 button.add {
   background-color: #ca8787;
+  border: 1px solid white;
 }
 
 .uphand-styles {
@@ -138,7 +141,7 @@ button.add {
 }
 
 .downhand-styles {
-  color: orangered;
+  color: #cf1c67;
 }
 
 @media (min-width: 800px) {
